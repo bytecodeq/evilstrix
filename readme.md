@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Strix, an 12 year old dude from Romania.
+I'm Strix,  a dude from Romania.
 - Learning C & Python
 - Interested in C++ & Python
 
