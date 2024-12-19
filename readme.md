@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Strix,  a dude from Romania.
+I'm Bytecode,  a dude from Romania.
 - Learning C & Python
 - Interested in C++ & Python
 
